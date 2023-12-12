@@ -1,0 +1,116 @@
+.app_header {
+    position: inherit;
+    width: 100%;
+    height: 40px;
+    background-color: #2d91d8;
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.redes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-right: 30px;
+}
+
+.nome{
+    font-weight: bold;
+    font-family: sans-serif;
+    padding-left: 10px;
+    font-size: 18px;
+}
+
+.linkedin {
+    padding-right: 18px;
+    font-size: 30px;
+}
+
+.github{
+    font-size: 30px;
+}
+
+.app_footer {
+    display: flex;
+    position:inherit;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    background-color: #2d91d8;
+    font-size: 15px;
+    color: #fff;
+    width: 100%;
+    height: 35px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
+
+.image {
+    border-color: #fff;
+    border-radius: 50%;
+    border-width: 5px;
+    border-style: solid;
+    background-color: #fff;
+    width: 300px;
+    height: 300px;
+    position: inherit;
+    z-index: 1;
+    margin-top: 50px;
+    background-image: url('./images/profile.jpg');
+    background-size: 300px;
+}
+
+.info {
+    border-color: #fff;
+    border-radius: 15px;
+    border-width: 4px;
+    border-style: solid;
+    height: 550px;
+    width: 800px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    background-color: #2d91d8;
+    margin-top: -100px;
+}
+
+.text-bio {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: justify;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-top: 80px;
+}
+
+a:link{
+    color: #fff;
+}
+
+a:visited {
+    color: #fff
+}
+
+a:hover {
+    color: #fff;
+}
+
+a:active {
+    color: #fff;
+}
+
+a:any-link{
+    color: #fff;
+}
