@@ -1,22 +1,23 @@
 document.addEventListener("DOMContentLoaded", function() {
     const title = document.querySelector('.app_header');
     const footer = document.querySelector('.app_footer');
-    const image = "/images/background.jpg";
+    const image = new Image();
     const textBio = document.querySelector('.text-bio');
 
-    document.body.style.backgroundImage = `url(${image})`;
-    document.body.style.backgroundRepeat = "no-repeat";
-    document.body.style.backgroundSize = "cover";
+    image.onload = function() {
+        document.body.style.backgroundImage = `url(${image.src})`;
+        document.body.style.backgroundSize = 'cover';
+    }
+
+    image.src = "/images/background.jpg";
 
     title.innerHTML = `
-        <div><h1 class="nome">Bernard Braun - Frontend Developer</h1></div>
+        <div><h1 class="nome">Bernard Braun da Silva - Frontend Developer</h1></div>
         <ul class="redes"><a href="https://www.linkedin.com/in/bernard-braun-da-silva/"><li class="linkedin"><i class="fa-brands fa-linkedin"></i></a></li> <li class="github"><a href="https://github.com/BernardBraun"><i class="fa-brands fa-github"></i></a></li></ul>
     `;
 
     footer.innerHTML = `
-        <div class="assinatura">
             <p>Desenvolvido por Bernard Braun da Silva</p>
-        </div>
     `;
 
     textBio.innerHTML = `
