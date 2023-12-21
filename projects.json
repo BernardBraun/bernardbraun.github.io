@@ -1,0 +1,39 @@
+{
+    "projetos": [
+        {
+            "projeto": "Diário da Hemofilia",
+            "imagem": "./images/projetos/diario-hemofilia-project.png",
+            "resumo": "Projeto de desenvolvimento de um app para localizar seu hemocentro, registrar as infusões realizadas e quando houver casos de hemartroses, por pacientes com Hemofilia.",
+            "tecnologias": ["https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+                            "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
+                            "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg",
+                            "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"]
+        },
+        {
+            "projeto": "Babyflix",
+            "imagem": "./images/projetos/babyflix-project.png",
+            "resumo": "Projeto de desenvolvimento de um clone do Netflix, com foco maior para atrações infantis.",
+            "tecnologias": ["https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
+                            "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
+                            "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+                            "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"]
+        },
+        {
+            "projeto": "Filmaria",
+            "imagem": "./images/projetos/filmaria-project.png",
+            "resumo": "Projeto de desenvolvimento para prática de SPA com ReactJS.",
+            "tecnologias": ["https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+                            "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
+                            "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
+                            "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"]
+        },
+        {
+            "projeto": "Fokus",
+            "imagem": "./images/projetos/fokus-project.png",
+            "resumo": "Projeto de desenvolvimento para prática de manipulação de DOM em JavaScript.",
+            "tecnologias": ["https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
+                            "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
+                            "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"]
+        }
+    ]
+}

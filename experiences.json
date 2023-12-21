@@ -1,0 +1,95 @@
+{
+    "experiencias": [
+      {
+        "empresa": "Philips EMR",
+        "logo": "./images/empresas/logo-philips.png",
+        "periodo": "Janeiro/2022 até Maio/2023",
+        "cargo": "Desenvolvedor Java Fullstack",
+        "descricao": "Atuei no time de Interoperabilidade, participando das atividades de desenvolvimento de integrações do sistema Tasy, no módulo de Laboratório. <br>Desenvolvia as integrações em Java e JavaScript, com broker de comunicação em Apache Camel e banco de dados Oracle PL/SQL."
+      },
+      {
+        "empresa": "Grupo Villela",
+        "logo": "./images/empresas/logo_grupo-villela.png",
+        "periodo": "Outubro/2021 até Dezembro/2021",
+        "cargo": "Desenvolvedor C# Fullstack",
+        "descricao": "Participei de projetos de desenvolvimento em C# no backend e frontend com Angular."
+      },
+      {
+        "empresa": "Suntex Brasil Indústria de Sintéticos LTDA",
+        "logo": "./images/empresas/logo-suntex.png",
+        "periodo": "Abril/2021 até Outubro/2021",
+        "cargo": "Analista de TI",
+        "descricao": "Atuava no atendimento interno aos usuários da empresa. <br>Realizava a abertura de chamados ao suporte do sistema TOTVS. <br>Realizava a criação e configuração de usuários e seus acessos dentro da plataforma Office 365. <br>Efetuava o monitoramento e realizar manutenções preventivas nos equipamentos de TI e telefonia da empresa. <br>Atuava na gestão de contratos com os prestadores de serviço."
+      },
+      {
+        "empresa": "IPM Sistemas",
+        "logo": "./images/empresas/logo-ipm.jpeg",
+        "periodo": "Setembro/2019 até Setembro/2020",
+        "cargo": "Técnico Residente de Software (Módulo Suprimentos)",
+        "descricao": "Realizava o atendimento interno aos usuários da Prefeitura Municipal de Novo Hamburgo na utilização do sistema Atende.Net. <br>Efetuava a abertura de chamados junto a equipe de desenvolvimento do sistema. <br>Auxiliava em treinamento de novos usuários do sistema dentro do módulo de Compras e Contratos. <br>Efetuava ajuste de relatórios com a ferramenta BIRT. <br>Auxiliava na criação e ajuste de fluxos de Workflow dentro do sistema."
+      },
+      {
+        "empresa": "FCC",
+        "logo": "./images/empresas/logo-fcc.png",
+        "periodo": "Junho/2018 até Agosto/2019",
+        "cargo": "Técnico de TI",
+        "descricao": "Prestava suporte técnico aos usuários da empresa. <br>Realizava o cadastro de novos usuários e suas liberações dentro dos servidores de arquivos, da plataforma Exchange e do Office 365. <br>Realizava a administração dos servidores Windows com Active Directory e File Server. <br>Realizava a manutenção física dos computadores do parque tecnológico. <br>Realizava a administração do backup em fita magnética. <br>Efetuava os registro de compras e a prestação de contas do setor de TI no ERP da empresa."
+      },
+      {
+        "empresa": "SMS Metais",
+        "logo": "./images/empresas/logo-sms.jpeg",
+        "periodo": "Agosto/2014 até Maio/2018",
+        "cargo": "Tecnico de TI",
+        "descricao": "Prestava suporte técnico aos usuários. <br>Realizava o cadastro de novos usuários e suas liberações dentro dos servidores. <br>Realizava o cadastro de novos usuários e suas liberações dentro do ERP GMAX. <br>Efetuava abertura de chamados e acompanhamento junto a empresa responsável pelo Sistema ERP. <br>Realizava a administração dos servidores Windows com Active Directory e File Server. <br>Realizava a manutenção física dos computadores do parque tecnológico e os ajustes e melhorias na rede local física e sem fio."
+      },
+      {
+        "empresa": "DxD Informática",
+        "logo": "./images/empresas/logo-dxd.jpg",
+        "periodo": "Março/2014 até Agosto/2014",
+        "cargo": "Vendedor Interno",
+        "descricao": "Realizava o atendimento interno aos clientes que frequentavam a loja."
+      },
+      {
+        "empresa": "Projetec Tecnologias Integradas",
+        "logo": "./images/empresas/logo_projetec.png",
+        "periodo": "Agosto/2013 até Dezembro/2013",
+        "cargo": "Consultor de Vendas",
+        "descricao": "Prospectava e realizar visitas a clientes em potencial, oferecendo soluções de TI."
+      },
+      {
+        "empresa": "Tinta e Cor Comercial de Tintas LTDA",
+        "logo": "./images/empresas/logo-tinta-cor.jpeg",
+        "periodo": "Abril/2013 até Julho/2013",
+        "cargo": "Técnico de TI",
+        "descricao": "Realizava a manutenção dos computadores, da rede VPN e da rede local da matriz e das filiais. <br>Realizava a administração dos servidores de Proxy e FileServer Linux. <br>Realizava a abertura de chamados relacionados ao sistema de vendas das lojas e ao sistema de CFTV."
+      },
+      {
+        "empresa": "GSR - Gestão de Segurança e Risco",
+        "logo": "./images/empresas/logo-gsr.jpeg",
+        "periodo": "Agosto/2012 até Março/2013",
+        "cargo": "Técnico de TI",
+        "descricao": "Prestava suporte técnico aos usuários da empresa. <br>Realizava a administração dos servidores Windows com Active Directory e File Server, cadastro de novos usuários e suas liberações. <br>Realizava manutenção física dos computadores do parque tecnológico. <br>Realizava a manutenção de acesso dos sistemas de CFTV dos clientes junto a empresa."      },
+      {
+        "empresa": "GSR - Gestão de Segurança e Risco",
+        "logo": "./images/empresas/logo-gsr.jpeg",
+        "periodo": "Dezembro/2009 até Julho/2012",
+        "cargo": "Operador de Central de Monitoramento",
+        "descricao": "Realizava o monitoramento de frotas dentro do sistema S.M.A.R.T. . <br>Realizava o monitoramento de alarmes residenciais e empresariais dos clientes dentro do sistema VigiSoft."
+      },
+      {
+        "empresa": "Federal Bureau Editoração Eletrônica LTDA",
+        "logo": "./images/empresas/logo-federal-bureau.png",
+        "periodo": "Agosto/2008 até Dezembro/2009",
+        "cargo": "Artefinalista",
+        "descricao": "Realizava a editoração eletrônica dos arquivos recebidos pelos clientes. <br>Fazia a criação de peças gráficas para os clientes. <br>Efetuava a digitalização de documentos e fotos dos clientes. <br>Realizava a impressão e finalização das peças gráficas, enviar para corte/dobra, encadernação e conferência final"
+      },
+      {
+        "empresa": "Gosto e Sumo Lancheria LTDA",
+        "logo": "./images/empresas/logo-gosto-sumo.png",
+        "periodo": "Março/2006 até Março/2008",
+        "cargo": "Entregador",
+        "descricao": "Realizava o atendimento telefônico para confecção dos pedidos. <br>Realizava a entrega dos pedidos."
+      }
+    ]
+  }
+  

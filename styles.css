@@ -1,8 +1,23 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #000, #2266dd, #ccc);
+    background-attachment: fixed;
+}
+
 .app_header {
     position: inherit;
     width: 100%;
-    height: 40px;
-    background-color: #2d91d8;
+    height: 55px;
     color: #fff;
     display: flex;
     flex-direction: row;
@@ -25,453 +40,149 @@
 
 .linkedin {
     padding-right: 18px;
-    font-size: 30px;
+    font-size: 35px;
 }
 
 .github{
-    font-size: 30px;
-}
-
-.app_footer {
-    display: flex;
-    position:inherit;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-    justify-content: center;
-    background-color: #2d91d8;
-    font-size: 15px;
-    color: #fff;
-    width: 100%;
-    height: 35px;
-}
+    font-size: 35px;
+}   
 
 .container {
     display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding-top: 5px;
-    padding-bottom: 25px;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 30px;
+    height: 100%;
+    width: 100%;
 }
 
 .image {
     border-color: #fff;
-    border-radius: 50%;
-    border-width: 5px;
+    border-width: 2.5px;
     border-style: solid;
-    background-color: #fff;
+    border-radius: 50%;
     width: 300px;
     height: 300px;
-    position: inherit;
-    z-index: 1;
-    margin-top: 50px;
-    background-image: url('./images/profile.jpg');
-    background-size: 300px;
+    background-image: url('./images/profile.png');
+    background-size: cover;
+    margin-left: 40px;
+    box-shadow: 0 0 15px #fff, 0 0 20px #fff, 0 0 25px #fff;
+}
+
+.boas-vindas {
+    font-size: 26px;
+    align-items: center;
+    text-align: center;
 }
 
 .info {
-    border-color: #fff;
-    border-radius: 15px;
-    border-width: 4px;
-    border-style: solid;
-    height: 550px;
-    width: 800px;
-    align-items: center;
-    justify-content: center;
-    display: flex;
-    flex-direction: column;
+    width: 60%;
+    height: 100%;
     color: #fff;
-    background-color: #2d91d8;
-    margin-top: -100px;
+    margin-right: 20px;
 }
 
 .text-bio {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: bold;
-    font-size: 18px;
+    font-size: 17px;
     text-align: justify;
-    padding-left: 40px;
-    padding-right: 40px;
-    margin-top: 80px;
+    
+    padding: 20px 100px 0 100px;
+}
+
+.titulo {
+    font-size: 42px;
+    text-align: start;
+}
+
+.titulo-projetos {
+    font-size: 42px;
+    text-align: center;
+    margin-bottom: 60px;
 }
 
 a:link{
     color: #fff;
+    text-decoration: none;
 }
 
 a:visited {
-    color: #fff
+    color: #fff;
+    text-decoration: none;
 }
 
 a:hover {
     color: #fff;
+    text-decoration: none;
 }
 
 a:active {
     color: #fff;
+    text-decoration: none;
 }
 
 a:any-link{
     color: #fff;
+    text-decoration: none;
 }
 
-@media screen and (max-width: 375px) {
-    .app_header {
-        position: inherit;
-        width: 100%;
-        height: 30px;
-        background-color: #2d91d8;
-        color: #fff;
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
-        align-items: center;
-    }
-    .redes{
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
-        padding-right: 30px;
-    }
-    
-    .nome{
-        font-weight: bold;
-        font-family: sans-serif;
-        padding-left: 10px;
-        font-size: 11px;
-    }
-    
-    .linkedin {
-        padding-right: 18px;
-        font-size: 25px;
-    }
-    
-    .github{
-        font-size: 25px;
-    }
-    
-    .app_footer {
-        display: flex;
-        position:inherit;
-        flex-direction: column;
-        align-items: center;
-        text-align: center;
-        justify-content: center;
-        background-color: #2d91d8;
-        font-size: 15px;
-        color: #fff;
-        width: 100%;
-        height: 35px;
-    }
-    
-    .container {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        padding-top: 5px;
-        padding-bottom: 25px;
-    }
-    
-    .image {
-        border-color: #fff;
-        border-radius: 50%;
-        border-width: 3px;
-        border-style: solid;
-        background-color: #fff;
-        width: 150px;
-        height: 150px;
-        position: inherit;
-        z-index: 1;
-        margin-top: 20px;
-        background-image: url('./images/profile.jpg');
-        background-size: 150px;
-    }
-    
-    .info {
-        border-color: #fff;
-        border-radius: 15px;
-        border-width: 2px;
-        border-style: solid;
-        height: 100%;
-        width: 90%;
-        align-items: center;
-        justify-content: center;
-        display: flex;
-        flex-direction: column;
-        color: #fff;
-        background-color: #2d91d8;
-        margin-top: -70px;
-        padding-bottom: 30px;
-    }
-    
-    .text-bio {
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        font-weight: bold;
-        font-size: 17px;
-        text-align: justify;
-        padding-left: 40px;
-        padding-right: 40px;
-        margin-top: 80px;
-    }
-    
-    a:link{
-        color: #fff;
-    }
-    
-    a:visited {
-        color: #fff
-    }
-    
-    a:hover {
-        color: #fff;
-    }
-    
-    a:active {
-        color: #fff;
-    }
-    
-    a:any-link{
-        color: #fff;
-    }
-    
+.sectors {
+    width: 150px; /* Largura fixa para a coluna de links */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    color: #fff;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
 }
 
-@media screen and (min-width: 376px) and (max-width: 600px) {
-    .app_header {
-        position: inherit;
-        width: 100%;
-        height: 30px;
-        background-color: #2d91d8;
-        color: #fff;
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
-        align-items: center;
-    }
-    .redes{
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
-        padding-right: 30px;
-    }
-    
-    .nome{
-        font-weight: bold;
-        font-family: sans-serif;
-        padding-left: 10px;
-        font-size: 11px;
-    }
-    
-    .linkedin {
-        padding-right: 18px;
-        font-size: 25px;
-    }
-    
-    .github{
-        font-size: 25px;
-    }
-    
-    .app_footer {
-        display: flex;
-        position:inherit;
-        flex-direction: column;
-        align-items: center;
-        text-align: center;
-        justify-content: center;
-        background-color: #2d91d8;
-        font-size: 15px;
-        color: #fff;
-        width: 100%;
-        height: 35px;
-    }
-    
-    .container {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        padding-top: 5px;
-        padding-bottom: 25px;
-    }
-    
-    .image {
-        border-color: #fff;
-        border-radius: 50%;
-        border-width: 3px;
-        border-style: solid;
-        background-color: #fff;
-        width: 150px;
-        height: 150px;
-        position: inherit;
-        z-index: 1;
-        margin-top: 20px;
-        background-image: url('./images/profile.jpg');
-        background-size: 150px;
-    }
-    
-    .info {
-        border-color: #fff;
-        border-radius: 15px;
-        border-width: 2px;
-        border-style: solid;
-        height: 100%;
-        width: 90%;
-        align-items: center;
-        justify-content: center;
-        display: flex;
-        flex-direction: column;
-        color: #fff;
-        background-color: #2d91d8;
-        margin-top: -70px;
-        padding-bottom: 30px;
-    }
-    
-    .text-bio {
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        font-weight: bold;
-        font-size: 17px;
-        text-align: justify;
-        padding-left: 40px;
-        padding-right: 40px;
-        margin-top: 80px;
-    }
-    
-    a:link{
-        color: #fff;
-    }
-    
-    a:visited {
-        color: #fff
-    }
-    
-    a:hover {
-        color: #fff;
-    }
-    
-    a:active {
-        color: #fff;
-    }
-    
-    a:any-link{
-        color: #fff;
-    }
+.sectors a:hover {
+    font-size: 22px;
+    transition: 200ms;
 }
 
-@media screen and (min-width: 601px) and (max-width: 800px) {
-    .app_header {
-        position: inherit;
-        width: 100%;
-        height: 30px;
-        background-color: #2d91d8;
-        color: #fff;
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
-        align-items: center;
-    }
-    .redes{
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
-        padding-right: 30px;
-    }
-    
-    .nome{
-        font-weight: bold;
-        font-family: sans-serif;
-        padding-left: 10px;
-        font-size: 11px;
-    }
-    
-    .linkedin {
-        padding-right: 18px;
-        font-size: 25px;
-    }
-    
-    .github{
-        font-size: 25px;
-    }
-    
-    .app_footer {
-        display: flex;
-        position:inherit;
-        flex-direction: column;
-        align-items: center;
-        text-align: center;
-        justify-content: center;
-        background-color: #2d91d8;
-        font-size: 15px;
-        color: #fff;
-        width: 100%;
-        height: 35px;
-    }
-    
-    .container {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        padding-top: 5px;
-        padding-bottom: 25px;
-    }
-    
-    .image {
-        border-color: #fff;
-        border-radius: 50%;
-        border-width: 3px;
-        border-style: solid;
-        background-color: #fff;
-        width: 150px;
-        height: 150px;
-        position: inherit;
-        z-index: 1;
-        margin-top: 20px;
-        background-image: url('./images/profile.jpg');
-        background-size: 150px;
-    }
-    
-    .info {
-        border-color: #fff;
-        border-radius: 15px;
-        border-width: 2px;
-        border-style: solid;
-        height: 100%;
-        width: 90%;
-        align-items: center;
-        justify-content: center;
-        display: flex;
-        flex-direction: column;
-        color: #fff;
-        background-color: #2d91d8;
-        margin-top: -70px;
-        padding-bottom: 30px;
-    }
-    
-    .text-bio {
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        font-weight: bold;
-        font-size: 17px;
-        text-align: justify;
-        padding-left: 40px;
-        padding-right: 40px;
-        margin-top: 80px;
-    }
-    
-    a:link{
-        color: #fff;
-    }
-    
-    a:visited {
-        color: #fff
-    }
-    
-    a:hover {
-        color: #fff;
-    }
-    
-    a:active {
-        color: #fff;
-    }
-    
-    a:any-link{
-        color: #fff;
-    }
+.experiences {
+    display: block;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+
+.logo-experience {
+    float: left;
+    margin-right: 15px;
+    width: 100px;
+    height: 90px;
+}
+
+.text-container {
+    overflow: hidden;
+    padding-bottom: 50px;
+}
+
+.experiencesTitle {
+    font-size: 28px;
+}
+
+.experieceDescription {
+    font-size: 35px;
+}
+
+.projeto-box {
+    margin-bottom: 35px;
+}
+
+.projeto-image{
+    width: 100%;
+}
+
+.projeto-nome {
+    font-size: 28px;
+    text-align: center;
+
+}
+
+.image-technology {
+    width: 50px;
+    height: 50px;
 }
