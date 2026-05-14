@@ -42,8 +42,8 @@ export const translations: Record<Locale, TranslationTree> = {
       greeting: "Olá! Que bom te ver por aqui!",
       paragraphs: [
         "Me chamo Bernard, tenho {{age}} anos.",
-        "Atualmente atuo como desenvolvedor front-end na Wipro, em projeto para a HP (React e TypeScript), e tenho forte experiência prévia como desenvolvedor Java full stack.",
-        "Também tenho mais de 10 anos de experiência como Analista de Infraestrutura de TI.",
+        "Atualmente atuo como desenvolvedor front-end na Wipro no ecossistema HP (programa myHP), com React e TypeScript. Somando Grupo Villela, Philips e Wipro, totalizo {{yearsTotalDev}} anos em desenvolvimento de software; destes, {{yearsFrontend}} anos com foco em frontend em produto global, além de integração e stack com Java, C# e Angular.",
+        "Tenho também cerca de {{yearsInfraTI}} anos de experiência em TI com ênfase em infraestrutura e operações — suporte a usuários, servidores Windows, redes e ambientes corporativos — antes de concentrar a carreira em desenvolvimento.",
         "Iniciei na área de TI como um hobby quando tinha 14 anos, ajudando os amigos a montar os PCs nas lan houses (quando a turma se reunia para jogar em rede), mas decidi tornar isso profissional em 2013, quando iniciei meu técnico em informática.",
         "Após concluir o técnico e percorrer uma longa jornada, iniciei minha graduação em Gestão da Tecnologia da Informação em 2016 e finalizei em 2018.",
         "Em 2020, com a pandemia, estava desempregado e com minha esposa grávida, e decidi iniciar minha transição de carreira para desenvolvimento — com muito incentivo dela e também querendo dar um futuro melhor para o nosso pequeno.",
@@ -84,8 +84,8 @@ export const translations: Record<Locale, TranslationTree> = {
       greeting: "Hi! Glad you stopped by.",
       paragraphs: [
         "My name is Bernard and I am {{age}} years old.",
-        "I currently work as a front-end developer at Wipro on an HP program (React and TypeScript), with a strong background as a Java full-stack developer.",
-        "I also have more than 10 years of experience as an IT infrastructure analyst.",
+        "I currently work as a front-end developer at Wipro on the HP ecosystem (myHP), using React and TypeScript. Across Grupo Villela, Philips, and Wipro, that adds up to {{yearsTotalDev}} years building software, including {{yearsFrontend}} years focused on global front-end delivery, plus integration work with Java, C#, and Angular.",
+        "I also have roughly {{yearsInfraTI}} years in IT with an infrastructure and operations focus—user support, Windows servers, networking, and corporate environments—before shifting fully into development.",
         "I got into IT as a hobby at age 14, helping friends build PCs for LAN parties, but I decided to go professional in 2013 when I started my computer technician program.",
         "After finishing the technician course and a long journey, I began my bachelor’s in IT Management in 2016 and completed it in 2018.",
         "In 2020, during the pandemic, I was unemployed and my wife was pregnant. I decided to pivot into software development—with her strong support and the goal of building a better future for our child.",

@@ -7,6 +7,7 @@ import {
 } from "framer-motion";
 import { useLanguage } from "./context/LanguageContext";
 import { calculateAge } from "./utils/age";
+import { getCareerStats } from "./utils/careerMetrics";
 import experiencesFile from "../experiences.json";
 import projectsFile from "../projects.json";
 
@@ -81,7 +82,14 @@ export default function App() {
 
   const fu = fadeUp(!!reduceMotion);
   const age = calculateAge();
-  const bioParagraphs = t.bio.paragraphs.map((p) => p.replace(/\{\{age\}\}/g, String(age)));
+  const career = getCareerStats();
+  const bioParagraphs = t.bio.paragraphs.map((p) =>
+    p
+      .replace(/\{\{age\}\}/g, String(age))
+      .replace(/\{\{yearsTotalDev\}\}/g, String(career.yearsTotalDev))
+      .replace(/\{\{yearsFrontend\}\}/g, String(career.yearsFrontend))
+      .replace(/\{\{yearsInfraTI\}\}/g, String(career.yearsInfraTI)),
+  );
 
   return (
     <MotionConfig reducedMotion="user">
