@@ -97,8 +97,6 @@ export const translations: Record<Locale, TranslationTree> = {
     },
     experiences: {
       pageTitle: "Professional summary",
-      contentNote:
-        "Detailed role descriptions below are in Portuguese; titles and dates stay as on my résumé.",
     },
     projects: {
       pageTitle: "Selected projects",

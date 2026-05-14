@@ -19,6 +19,9 @@ type ExperienceRow = {
   periodo: string;
   cargo: string;
   descricao: string;
+  periodo_en?: string;
+  cargo_en?: string;
+  descricao_en?: string;
 };
 
 type ProjectRow = {
@@ -50,6 +53,7 @@ const fadeUp = (reduce: boolean) =>
 
 export default function App() {
   const { locale, setLocale, t } = useLanguage();
+  const isEn = locale === "en-US";
   const reduceMotion = useReducedMotion();
   const [section, setSection] = useState<Section>("home");
   const [contactOpen, setContactOpen] = useState(false);
@@ -263,11 +267,15 @@ export default function App() {
                         </div>
                         <div className="exp-meta">
                           <h2>{exp.empresa}</h2>
-                          <p className="role">{exp.cargo}</p>
-                          <p className="period">{exp.periodo}</p>
+                          <p className="role">{isEn && exp.cargo_en ? exp.cargo_en : exp.cargo}</p>
+                          <p className="period">
+                            {isEn && exp.periodo_en ? exp.periodo_en : exp.periodo}
+                          </p>
                           <div
                             className="exp-desc"
-                            dangerouslySetInnerHTML={{ __html: exp.descricao }}
+                            dangerouslySetInnerHTML={{
+                              __html: isEn && exp.descricao_en ? exp.descricao_en : exp.descricao,
+                            }}
                           />
                         </div>
                       </motion.article>

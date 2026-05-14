@@ -4,99 +4,141 @@
       "empresa": "Wipro",
       "logo": "./images/empresas/logo-wipro.svg",
       "periodo": "Junho/2024 até o momento",
+      "periodo_en": "June/2024 – present",
       "cargo": "Front-end Developer (PWD)",
-      "descricao": "Atuação no projeto HPX para HP Inc., contribuindo no desenvolvimento da aplicação global myHP, com foco nos módulos de Settings e Feedback.<br>Desenvolvimento e evolução de funcionalidades com React e TypeScript.<br>Correção de bugs e melhorias evolutivas com foco em estabilidade e manutenção de código.<br>Análise de impacto técnico antes de implementações, garantindo previsibilidade nas entregas.<br>Participação em refinamentos técnicos e cerimônias ágeis em ambiente global.<br>Colaboração com designers via Figma e uso de JIRA para gestão de demandas.<br>Brasil · Remoto."
+      "cargo_en": "Fullstack Developer (PWD)",
+      "descricao": "Atuação no projeto HPX para HP Inc., contribuindo no desenvolvimento da aplicação global myHP, com foco nos módulos de Settings e Feedback.<br>Desenvolvimento e evolução de funcionalidades com React e TypeScript.<br>Correção de bugs e melhorias evolutivas com foco em estabilidade e manutenção de código.<br>Análise de impacto técnico antes de implementações, garantindo previsibilidade nas entregas.<br>Participação em refinamentos técnicos e cerimônias ágeis em ambiente global.<br>Colaboração com designers via Figma e uso de JIRA para gestão de demandas.<br>Brasil · Remoto.",
+      "descricao_en": "Working on the HPX project for HP Inc., contributing directly to the development of the global myHP application, focused on the Settings and Feedback modules.<br>Development and evolution of features using React and TypeScript.<br>Bug fixing and implementation of enhancements with a focus on stability and maintainable code.<br>Technical impact analysis prior to implementations to ensure delivery predictability.<br>Active participation in technical refinements and agile ceremonies in a global environment.<br>Collaboration with designers via Figma and structured demand management through JIRA.<br>Brazil · Remote."
     },
     {
       "empresa": "Philips",
       "logo": "./images/empresas/logo-philips.png",
       "periodo": "Janeiro/2022 até Maio/2023",
+      "periodo_en": "January/2022 – May/2023",
       "cargo": "Programador Java Fullstack",
-      "descricao": "Atuação no time de interoperabilidade desenvolvendo integrações sistêmicas críticas para suporte a APIs laboratoriais.<br>Implementação de integrações com Java e Apache Camel.<br>Otimização de performance das integrações com ganho estimado entre 40% e 60%.<br>Manipulação de consultas complexas em PL/SQL para suporte às integrações.<br>Colaboração técnica com equipes multifuncionais garantindo estabilidade e confiabilidade dos serviços.<br>Blumenau, Santa Catarina, Brasil."
+      "cargo_en": "Fullstack Java Developer",
+      "descricao": "Atuação no time de interoperabilidade desenvolvendo integrações sistêmicas críticas para suporte a APIs laboratoriais.<br>Implementação de integrações com Java e Apache Camel.<br>Otimização de performance das integrações com ganho estimado entre 40% e 60%.<br>Manipulação de consultas complexas em PL/SQL para suporte às integrações.<br>Colaboração técnica com equipes multifuncionais garantindo estabilidade e confiabilidade dos serviços.<br>Blumenau, Santa Catarina, Brasil.",
+      "descricao_en": "Worked within the interoperability team developing critical system integrations supporting laboratory APIs.<br>Implementation of integrations using Java and Apache Camel.<br>Performance optimization of integrations with estimated improvements between 40% and 60%.<br>Handling of complex PL/SQL queries to support system integrations.<br>Technical collaboration with cross-functional teams ensuring service reliability and stability.<br>Blumenau, Santa Catarina, Brazil."
     },
     {
       "empresa": "Grupo Villela",
       "logo": "./images/empresas/logo_grupo-villela.png",
       "periodo": "Outubro/2021 até Dezembro/2021",
+      "periodo_en": "October/2021 – December/2021",
       "cargo": "Desenvolvedor C# Full Stack",
-      "descricao": "Desenvolvimento de aplicações internas com foco em eficiência operacional e melhoria contínua.<br>Backend com C# e frontend com Angular.<br>Evolução de ferramentas corporativas com melhoria significativa de usabilidade.<br>Implementação de correções estruturais e ajustes técnicos em ambiente ágil.<br>Porto Alegre, Rio Grande do Sul, Brasil."
+      "cargo_en": "Fullstack C# Developer",
+      "descricao": "Desenvolvimento de aplicações internas com foco em eficiência operacional e melhoria contínua.<br>Backend com C# e frontend com Angular.<br>Evolução de ferramentas corporativas com melhoria significativa de usabilidade.<br>Implementação de correções estruturais e ajustes técnicos em ambiente ágil.<br>Porto Alegre, Rio Grande do Sul, Brasil.",
+      "descricao_en": "Contributed to the development of internal applications focused on operational efficiency and continuous improvement.<br>Backend development with C# and frontend development with Angular.<br>Enhancement of corporate tools improving usability and workflow efficiency.<br>Implementation of structural fixes and technical adjustments within an agile environment.<br>Porto Alegre, Rio Grande do Sul, Brazil."
     },
     {
       "empresa": "Suntex Brasil Indústria de Sintéticos LTDA",
       "logo": "./images/empresas/logo-suntex.png",
       "periodo": "Abril/2021 até Outubro/2021",
+      "periodo_en": "April/2021 – October/2021",
       "cargo": "Analista de TI",
-      "descricao": "Suporte interno aos usuários e otimização dos processos de TI.<br>Atendimento interno com resoluções eficazes e altos padrões de satisfação.<br>Abertura de chamados e coordenação com o suporte do sistema TOTVS.<br>Criação e configuração de usuários, gestão de acessos e suporte à plataforma Office 365.<br>Monitoramento e manutenções preventivas em equipamentos de TI e telefonia.<br>Gestão de contratos com prestadores de serviço.<br>Porto Alegre, Rio Grande do Sul, Brasil."
+      "cargo_en": "IT Analyst",
+      "descricao": "Suporte interno aos usuários e otimização dos processos de TI.<br>Atendimento interno com resoluções eficazes e altos padrões de satisfação.<br>Abertura de chamados e coordenação com o suporte do sistema TOTVS.<br>Criação e configuração de usuários, gestão de acessos e suporte à plataforma Office 365.<br>Monitoramento e manutenções preventivas em equipamentos de TI e telefonia.<br>Gestão de contratos com prestadores de serviço.<br>Porto Alegre, Rio Grande do Sul, Brasil.",
+      "descricao_en": "Internal support to company users and optimization of IT processes.<br>Ticket logging and coordination with TOTVS system support.<br>Creation and configuration of users and access management on the Office 365 platform.<br>Monitoring and preventive maintenance of IT and telephony equipment.<br>Management of contracts with service providers.<br>Porto Alegre, Rio Grande do Sul, Brazil."
     },
     {
       "empresa": "IPM Sistemas",
       "logo": "./images/empresas/logo-ipm.jpeg",
       "periodo": "Setembro/2019 até Setembro/2020",
+      "periodo_en": "September/2019 – September/2020",
       "cargo": "Técnico Residente em Suprimentos",
-      "descricao": "Suporte técnico e otimização de processos para a Prefeitura Municipal de Novo Hamburgo com o sistema Atende.Net.<br>Atendimento interno aos usuários da prefeitura no uso do Atende.Net.<br>Abertura e gerenciamento de chamados junto à equipe de desenvolvimento.<br>Treinamento de novos usuários, com foco no módulo de Compras e Contratos.<br>Ajuste de relatórios com BIRT.<br>Criação e ajuste de fluxos de Workflow no sistema.<br>Rio do Sul."
+      "cargo_en": "Resident Technician – Supply Module",
+      "descricao": "Suporte técnico e otimização de processos para a Prefeitura Municipal de Novo Hamburgo com o sistema Atende.Net.<br>Atendimento interno aos usuários da prefeitura no uso do Atende.Net.<br>Abertura e gerenciamento de chamados junto à equipe de desenvolvimento.<br>Treinamento de novos usuários, com foco no módulo de Compras e Contratos.<br>Ajuste de relatórios com BIRT.<br>Criação e ajuste de fluxos de Workflow no sistema.<br>Rio do Sul.",
+      "descricao_en": "Technical support and process optimization for the Municipality of Novo Hamburgo using the Atende.Net system.<br>Internal support to municipal users on Atende.Net.<br>Ticket creation and follow-up with the system development team.<br>Assisted in training new users in the Purchasing and Contracts module.<br>Report adjustments using BIRT.<br>Creation and tuning of Workflow flows within the system.<br>Rio do Sul."
     },
     {
       "empresa": "FCC",
       "logo": "./images/empresas/logo-fcc.png",
       "periodo": "Junho/2018 até Agosto/2019",
+      "periodo_en": "June/2018 – August/2019",
       "cargo": "Técnico de TI",
-      "descricao": "Suporte técnico e eficiência operacional.<br>Cadastro de usuários e liberações em servidores de arquivos, Exchange e Office 365.<br>Administração de servidores Windows (Active Directory e File Server).<br>Manutenção física do parque tecnológico.<br>Backup em fita magnética e registro de compras / prestação de contas do setor de TI no ERP.<br>Campo Bom."
+      "cargo_en": "IT Technician",
+      "descricao": "Suporte técnico e eficiência operacional.<br>Cadastro de usuários e liberações em servidores de arquivos, Exchange e Office 365.<br>Administração de servidores Windows (Active Directory e File Server).<br>Manutenção física do parque tecnológico.<br>Backup em fita magnética e registro de compras / prestação de contas do setor de TI no ERP.<br>Campo Bom.",
+      "descricao_en": "Technical support and operational efficiency for company users.<br>User provisioning and access management on file servers, Exchange, and Office 365.<br>Administration of Windows servers (Active Directory and File Server).<br>Physical maintenance of the IT equipment fleet.<br>Magnetic tape backup administration; purchase records and IT expense reporting in the company ERP.<br>Campo Bom."
     },
     {
       "empresa": "SMS Metais",
       "logo": "./images/empresas/logo-sms.jpeg",
       "periodo": "Agosto/2014 até Maio/2018",
+      "periodo_en": "August/2014 – May/2018",
       "cargo": "Técnico em Informática",
-      "descricao": "Suporte técnico e gestão da infraestrutura de TI.<br>Suporte aos usuários com respostas rápidas e soluções eficazes.<br>Cadastro de usuários e permissões em servidores e no ERP GMAX.<br>Abertura de chamados e acompanhamento com a empresa do ERP.<br>Administração de servidores Windows (Active Directory e File Server).<br>Manutenção física do parque tecnológico.<br>Ajustes e melhorias na rede local física e sem fio.<br>Novo Hamburgo, Rio Grande do Sul."
+      "cargo_en": "IT Technician",
+      "descricao": "Suporte técnico e gestão da infraestrutura de TI.<br>Suporte aos usuários com respostas rápidas e soluções eficazes.<br>Cadastro de usuários e permissões em servidores e no ERP GMAX.<br>Abertura de chamados e acompanhamento com a empresa do ERP.<br>Administração de servidores Windows (Active Directory e File Server).<br>Manutenção física do parque tecnológico.<br>Ajustes e melhorias na rede local física e sem fio.<br>Novo Hamburgo, Rio Grande do Sul.",
+      "descricao_en": "Technical support and IT infrastructure management.<br>User support with fast responses and effective solutions.<br>User registration and permissions on servers and in the GMAX ERP.<br>Ticket creation and follow-up with the ERP vendor.<br>Administration of Windows servers (Active Directory and File Server).<br>Physical maintenance of the IT equipment fleet.<br>Improvements to wired and wireless local networks.<br>Novo Hamburgo, Rio Grande do Sul, Brazil."
     },
     {
       "empresa": "DxD Informática",
       "logo": "./images/empresas/logo-dxd.jpg",
       "periodo": "Março/2014 até Agosto/2014",
+      "periodo_en": "March/2014 – August/2014",
       "cargo": "Vendas",
-      "descricao": "Freelance · atendimento interno aos clientes na loja, com foco em experiência positiva.<br>Relacionamento com clientes, necessidades e soluções personalizadas.<br>Suporte proativo para satisfação e resolução de dúvidas.<br>Colaboração com a equipe para metas de vendas.<br>Conhecimento atualizado de produtos e serviços.<br>Novo Hamburgo, Rio Grande do Sul."
+      "cargo_en": "Sales",
+      "descricao": "Freelance · atendimento interno aos clientes na loja, com foco em experiência positiva.<br>Relacionamento com clientes, necessidades e soluções personalizadas.<br>Suporte proativo para satisfação e resolução de dúvidas.<br>Colaboração com a equipe para metas de vendas.<br>Conhecimento atualizado de produtos e serviços.<br>Novo Hamburgo, Rio Grande do Sul.",
+      "descricao_en": "Freelance · in-store customer service focused on a positive shopping experience.<br>Relationship building, understanding customer needs, and tailored recommendations.<br>Proactive support to ensure satisfaction and resolve questions.<br>Collaboration with the team to meet sales targets and up-to-date product knowledge.<br>Novo Hamburgo, Rio Grande do Sul, Brazil."
     },
     {
       "empresa": "Projetec Tecnologias Integradas",
       "logo": "./images/empresas/logo_projetec.png",
       "periodo": "Agosto/2013 até Dezembro/2013",
+      "periodo_en": "August/2013 – December/2013",
       "cargo": "Consultor de Vendas",
-      "descricao": "Prospecção e visitas a clientes em potencial com soluções de TI.<br>Identificação de oportunidades e propostas alinhadas aos objetivos do cliente.<br>Relacionamento consultivo e apoio às estratégias comerciais da equipe.<br>Novo Hamburgo, Rio Grande do Sul, Brasil."
+      "cargo_en": "Sales Consultant",
+      "descricao": "Prospecção e visitas a clientes em potencial com soluções de TI.<br>Identificação de oportunidades e propostas alinhadas aos objetivos do cliente.<br>Relacionamento consultivo e apoio às estratégias comerciais da equipe.<br>Novo Hamburgo, Rio Grande do Sul, Brasil.",
+      "descricao_en": "Prospected and visited potential customers to offer IT solutions.<br>Identified opportunities and aligned proposals with customer objectives.<br>Consultative selling and support for the team’s sales strategies.<br>Novo Hamburgo, Rio Grande do Sul, Brazil."
     },
     {
       "empresa": "Tinta e Cor Comercial de Tintas LTDA",
       "logo": "./images/empresas/logo-tinta-cor.jpeg",
       "periodo": "Abril/2013 até Julho/2013",
+      "periodo_en": "April/2013 – July/2013",
       "cargo": "Técnico em Informática",
-      "descricao": "Manutenção e administração dos sistemas de TI.<br>Manutenção preventiva e corretiva de computadores na matriz e filiais.<br>Administração de servidores Proxy e FileServer Linux.<br>Manutenção da rede VPN e local entre matriz e filiais.<br>Chamados relacionados ao sistema de vendas e ao CFTV.<br>Novo Hamburgo, Rio Grande do Sul, Brasil."
+      "cargo_en": "IT Technician",
+      "descricao": "Manutenção e administração dos sistemas de TI.<br>Manutenção preventiva e corretiva de computadores na matriz e filiais.<br>Administração de servidores Proxy e FileServer Linux.<br>Manutenção da rede VPN e local entre matriz e filiais.<br>Chamados relacionados ao sistema de vendas e ao CFTV.<br>Novo Hamburgo, Rio Grande do Sul, Brasil.",
+      "descricao_en": "Maintenance and administration of IT systems.<br>Preventive and corrective maintenance of computers at headquarters and branches.<br>Administration of Linux Proxy and FileServer servers.<br>Maintenance of VPN and local networks between headquarters and branches.<br>Tickets related to the store sales system and CCTV.<br>Novo Hamburgo, Rio Grande do Sul, Brazil."
     },
     {
       "empresa": "GSR - Gestão de Segurança e Risco",
       "logo": "./images/empresas/logo-gsr.jpeg",
       "periodo": "Agosto/2012 até Março/2013",
+      "periodo_en": "August/2012 – March/2013",
       "cargo": "Técnico de TI",
-      "descricao": "Suporte técnico e gestão da infraestrutura de TI.<br>Suporte aos usuários com respostas rápidas.<br>Administração de servidores Windows (Active Directory e File Server), cadastro e liberações.<br>Manutenção física do parque tecnológico.<br>Manutenção de acessos aos sistemas de CFTV dos clientes em parceria com a empresa.<br>Novo Hamburgo e região, Brasil."
+      "cargo_en": "IT Technician",
+      "descricao": "Suporte técnico e gestão da infraestrutura de TI.<br>Suporte aos usuários com respostas rápidas.<br>Administração de servidores Windows (Active Directory e File Server), cadastro e liberações.<br>Manutenção física do parque tecnológico.<br>Manutenção de acessos aos sistemas de CFTV dos clientes em parceria com a empresa.<br>Novo Hamburgo e região, Brasil.",
+      "descricao_en": "Technical support and IT infrastructure management.<br>Support to users with fast responses.<br>Administration of Windows servers (Active Directory and File Server), including user provisioning and access.<br>Physical maintenance of the IT equipment fleet.<br>Maintenance of customer CCTV system access in coordination with the company.<br>Novo Hamburgo region, Brazil."
     },
     {
       "empresa": "GSR - Gestão de Segurança e Risco",
       "logo": "./images/empresas/logo-gsr.jpeg",
       "periodo": "Dezembro/2009 até Julho/2012",
+      "periodo_en": "December/2009 – July/2012",
       "cargo": "Operador de Central",
-      "descricao": "Monitoramento de frotas no sistema S.M.A.R.T.<br>Monitoramento de alarmes residenciais e empresariais no sistema VigiSoft.<br>Novo Hamburgo, Rio Grande do Sul, Brasil."
+      "cargo_en": "Monitoring Center Operator",
+      "descricao": "Monitoramento de frotas no sistema S.M.A.R.T.<br>Monitoramento de alarmes residenciais e empresariais no sistema VigiSoft.<br>Novo Hamburgo, Rio Grande do Sul, Brasil.",
+      "descricao_en": "Fleet monitoring using the S.M.A.R.T. system.<br>Monitoring of residential and business customer alarms in the VigiSoft system.<br>Novo Hamburgo, Rio Grande do Sul, Brazil."
     },
     {
       "empresa": "Federal Bureau Editoração LTDA",
       "logo": "./images/empresas/logo-federal-bureau.png",
       "periodo": "Agosto/2008 até Dezembro/2009",
+      "periodo_en": "August/2008 – December/2009",
       "cargo": "Arte-Finalista",
-      "descricao": "Editoração eletrônica de arquivos de clientes; criação de peças gráficas; digitalização de documentos e fotos.<br>Impressão e finalização das peças; envio para corte/dobra e encadernação; apoio à conferência final.<br>Novo Hamburgo, Rio Grande do Sul, Brasil."
+      "cargo_en": "Graphic finisher",
+      "descricao": "Editoração eletrônica de arquivos de clientes; criação de peças gráficas; digitalização de documentos e fotos.<br>Impressão e finalização das peças; envio para corte/dobra e encadernação; apoio à conferência final.<br>Novo Hamburgo, Rio Grande do Sul, Brasil.",
+      "descricao_en": "Electronic publishing of client-supplied files; creation of graphic pieces; digitization of documents and photos.<br>Printing and finishing of graphic work; handoff for cutting, folding, and binding; support for final quality checks.<br>Novo Hamburgo, Rio Grande do Sul, Brazil."
     },
     {
       "empresa": "Gosto e Sumo Lancheria LTDA",
       "logo": "./images/empresas/logo-gosto-sumo.png",
       "periodo": "Março/2006 até Março/2008",
+      "periodo_en": "March/2006 – March/2008",
       "cargo": "Entregador",
-      "descricao": "Atendimento telefônico para confecção dos pedidos e entrega com pontualidade.<br>Novo Hamburgo, Rio Grande do Sul, Brasil."
+      "cargo_en": "Delivery",
+      "descricao": "Atendimento telefônico para confecção dos pedidos e entrega com pontualidade.<br>Novo Hamburgo, Rio Grande do Sul, Brasil.",
+      "descricao_en": "Phone orders and on-time deliveries.<br>Novo Hamburgo, Rio Grande do Sul, Brazil."
     }
   ]
 }

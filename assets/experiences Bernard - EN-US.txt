@@ -1,0 +1,299 @@
+﻿Experiência
+
+
+
+
+Logo da empresa Wipro
+Fullstack Developer (PWD)
+
+
+Wipro · Tempo integral
+
+
+jun de 2024 - o momento · 2 anos
+
+
+Brazil · Remoto
+
+
+Working on the HPX project for HP Inc, contributing directly to the development of the global myHP
+application, focused on the Settings and Feedback modules.
+• Development and evolution of features using React and TypeScript.
+• Bug fixing and implementation of enhancements with focus on stability and maintainable code.
+• Technical impact analysis prior to implementations to ensure delivery predictability.
+• Active participation in technical refinements and agile ceremonies in a global environment.
+• Collaboration with designers via Figma and structured demand management through JIRA
+
+
+ JIRA, Versionamento e mais 12 competências
+
+
+
+
+Aprimorar com IA
+Logo da empresa Philips
+Fullstack Java Developer
+
+
+Philips · Tempo integral
+
+
+jan de 2022 - mai de 2023 · 1 ano 5 meses
+
+
+Blumenau, Santa Catarina, Brasil
+
+
+Worked within the interoperability team developing critical system integrations supporting laboratory
+APIs.
+• Implementation of integrations using Java and Apache Camel.
+• Performance optimization of integrations with estimated improvements between 40% and 60%.
+• Handling of complex PL/SQL queries to support system integrations.
+• Technical collaboration with cross-functional teams ensuring service reliability and stability
+
+
+ Programação (computação), CSS3 e mais 32 competências
+
+
+Logo da empresa Gurpo Villela
+Fullstack C# Developer
+
+
+Gurpo Villela · Tempo integral
+
+
+out de 2021 - dez de 2021 · 3 meses
+
+
+Porto Alegre, Rio Grande do Sul, Brasil
+
+
+O LinkedIn me ajudou a conseguir este emprego me ajudou a conseguir este emprego
+
+
+Contributed to the development of internal applications focused on operational efficiency and
+continuous improvement.
+• Backend development with C# and frontend development with Angular.
+• Enhancement of corporate tools improving usability and workflow efficiency.
+• Implementation of structural fixes and technical adjustments within an agile environment.
+
+
+ Programação (computação), C# e mais 23 competências
+
+
+IT Analist
+
+
+Suntex Brasil Indústria de Sintéticos LTDA · Tempo integral
+
+
+abr de 2021 - out de 2021 · 7 meses
+
+
+Porto Alegre, Rio Grande do Sul, Brasil
+
+
+Worked in the internal service to the users of the company.
+I opened calls to the support of the TOTVS system.
+I created and configured users and their access within the Office 365 platform.
+Monitoring and performing preventive maintenance on the company's IT and telephony equipment.
+Worked in the management of contracts with service providers.
+
+
+ Raciocínio lógico, Pensamento estratégico e mais 8 competências
+
+
+Logo da empresa IPM Sistemas
+Resident Technician - Supply Module
+
+
+IPM Sistemas · Tempo integral
+
+
+set de 2019 - set de 2020 · 1 ano 1 mês
+
+
+Rio do Sul
+
+
+Performed internal service to users of the Municipality of Novo Hamburgo using the Atende.Net system.
+I opened calls with the system development team.
+Assisted in training new users of the system within the Purchasing and Contracts module.
+Adjusted reports with the BIRT tool.
+Assisted in the creation and adjustment of Workflow flows within the system.
+
+
+ Raciocínio lógico, Pensamento estratégico e mais 8 competências
+
+
+Logo da empresa FCC
+IT Technician
+
+
+FCC · Tempo integral
+
+
+jun de 2018 - ago de 2019 · 1 ano 3 meses
+
+
+Campo Bom
+
+
+Provided technical support to company users.
+Performed the registration of new users and their releases within the file servers, Exchange platform and Office 365.
+Performed the administration of Windows servers with Active Directory and File Server and the physical maintenance of computers in the technology park.
+Performed the administration of the magnetic tape backup and made the purchase records and the rendering of accounts of the IT sector in the company's ERP.
+
+
+ Raciocínio lógico, Pensamento estratégico e mais 8 competências
+
+
+Logo da empresa SMS Metais
+IT Technician
+
+
+SMS Metais · Tempo integral
+
+
+ago de 2014 - mai de 2018 · 3 anos 10 meses
+
+
+Novo Hamburgo, Rio Grande do Sul
+
+
+Provided technical support to users, perform the registration of new users and their releases within the servers and in the ERP GMAX.
+I opened calls and followed up with the company responsible for the ERP System.
+Performed the administration of Windows servers with Active Directory and File Server.
+Performed physical maintenance of computers in the technology park and made adjustments and improvements to the physical and wireless local area network.
+
+
+ Raciocínio lógico, Pensamento estratégico e mais 8 competências
+
+
+Salesman
+
+
+Dxd Informática · Freelance
+
+
+mar de 2014 - ago de 2014 · 6 meses
+
+
+Novo Hamburgo, Rio Grande do Sul
+
+
+Performed internal service to customers who frequented the store.
+
+
+ Comunicação interpessoal, Relacionamentos interpessoais e mais 3 competências
+
+
+Sales Consultant
+
+
+Projetec Tecnologias Integradas · Tempo integral
+
+
+ago de 2013 - dez de 2013 · 5 meses
+
+
+Novo Hamburgo, Rio Grande do Sul, Brasil
+
+
+Prospected and carried out visits to potential customers, offering IT solutions.
+
+
+ Comunicação interpessoal, Relacionamentos interpessoais e mais 3 competências
+
+
+IT Technician
+
+
+Tinta e Cor Comercial de Tintas LTDA · Tempo integral
+
+
+abr de 2013 - jul de 2013 · 4 meses
+
+
+Novo Hamburgo Rio Grande do Sul, Brasil
+
+
+Performed maintenance of computers, VPN network and local network at headquarters and branches. Performed the administration of Proxy and FileServer Linux servers. I opened calls related to the store sales system and the CCTV system.
+
+
+ Comunicação interpessoal, Resolução de problemas e mais 5 competências
+
+
+GSR - Gestão de Segurança e Risco
+
+
+Tempo integral · 3 a 4 m
+
+
+IT Technician
+
+
+ago de 2012 - mar de 2013 · 8 meses
+
+
+Novo Hamburgo e Região, Brasil
+
+
+
+
+Aprimorar com IA
+Provided technical support to company users. Performed the administration of Windows servers with Active Directory and File Server, registration of new users and their releases. Performed physical maintenance of computers in the technology park. Performed access maintenance of customers' CCTV systems with the company.
+
+
+Competências: Comunicação interpessoal, Resolução de problemas e mais 5 competências
+
+
+Monitoring Center Operator
+
+
+dez de 2009 - jul de 2012 · 2 anos 8 meses
+
+
+Novo Hamburgo, Rio Grande do Sul, Brasil
+
+
+Performed fleet monitoring within the S.M.A.R.T. . Performed monitoring of residential and business alarms of customers within the VigiSoft system.
+
+
+Competências: Comunicação interpessoal, Relacionamentos interpessoais e mais 1 competência
+
+
+Inker
+
+
+Federal Bureau Editoração LTDA · Tempo integral
+
+
+ago de 2008 - dez de 2009 · 1 ano 5 meses
+
+
+Novo Hamburgo, Rio Grande do Sul, Brasil
+
+
+Performed electronic publishing of files received by clients. I created graphic pieces for clients. Scanned documents and photos of clients. Performed the printing and finalization of graphic pieces, send for cutting/folding, binding and final checking.
+
+
+ Comunicação interpessoal, Relacionamentos interpessoais e mais 3 competências
+
+
+Delivery Man
+
+
+Gosto e Sumo Lancheria LTDA · Tempo integral
+
+
+mar de 2006 - mar de 2008 · 2 anos 1 mês
+
+
+Novo Hamburgo, Rio Grande do Sul, Brasil
+
+
+Handled phone calls for ordering. Made the delivery of orders.
+
+
+ Comunicação interpessoal, Relacionamentos interpessoais e mais 1 competência
