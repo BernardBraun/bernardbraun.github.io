@@ -1,95 +1,102 @@
 {
-    "experiencias": [
-      {
-        "empresa": "Philips EMR",
-        "logo": "./images/empresas/logo-philips.png",
-        "periodo": "Janeiro/2022 até Maio/2023",
-        "cargo": "Desenvolvedor Java Fullstack",
-        "descricao": "Atuei no time de Interoperabilidade, participando das atividades de desenvolvimento de integrações do sistema Tasy, no módulo de Laboratório. <br>Desenvolvia as integrações em Java e JavaScript, com broker de comunicação em Apache Camel e banco de dados Oracle PL/SQL."
-      },
-      {
-        "empresa": "Grupo Villela",
-        "logo": "./images/empresas/logo_grupo-villela.png",
-        "periodo": "Outubro/2021 até Dezembro/2021",
-        "cargo": "Desenvolvedor C# Fullstack",
-        "descricao": "Participei de projetos de desenvolvimento em C# no backend e frontend com Angular."
-      },
-      {
-        "empresa": "Suntex Brasil Indústria de Sintéticos LTDA",
-        "logo": "./images/empresas/logo-suntex.png",
-        "periodo": "Abril/2021 até Outubro/2021",
-        "cargo": "Analista de TI",
-        "descricao": "Atuava no atendimento interno aos usuários da empresa. <br>Realizava a abertura de chamados ao suporte do sistema TOTVS. <br>Realizava a criação e configuração de usuários e seus acessos dentro da plataforma Office 365. <br>Efetuava o monitoramento e realizar manutenções preventivas nos equipamentos de TI e telefonia da empresa. <br>Atuava na gestão de contratos com os prestadores de serviço."
-      },
-      {
-        "empresa": "IPM Sistemas",
-        "logo": "./images/empresas/logo-ipm.jpeg",
-        "periodo": "Setembro/2019 até Setembro/2020",
-        "cargo": "Técnico Residente de Software (Módulo Suprimentos)",
-        "descricao": "Realizava o atendimento interno aos usuários da Prefeitura Municipal de Novo Hamburgo na utilização do sistema Atende.Net. <br>Efetuava a abertura de chamados junto a equipe de desenvolvimento do sistema. <br>Auxiliava em treinamento de novos usuários do sistema dentro do módulo de Compras e Contratos. <br>Efetuava ajuste de relatórios com a ferramenta BIRT. <br>Auxiliava na criação e ajuste de fluxos de Workflow dentro do sistema."
-      },
-      {
-        "empresa": "FCC",
-        "logo": "./images/empresas/logo-fcc.png",
-        "periodo": "Junho/2018 até Agosto/2019",
-        "cargo": "Técnico de TI",
-        "descricao": "Prestava suporte técnico aos usuários da empresa. <br>Realizava o cadastro de novos usuários e suas liberações dentro dos servidores de arquivos, da plataforma Exchange e do Office 365. <br>Realizava a administração dos servidores Windows com Active Directory e File Server. <br>Realizava a manutenção física dos computadores do parque tecnológico. <br>Realizava a administração do backup em fita magnética. <br>Efetuava os registro de compras e a prestação de contas do setor de TI no ERP da empresa."
-      },
-      {
-        "empresa": "SMS Metais",
-        "logo": "./images/empresas/logo-sms.jpeg",
-        "periodo": "Agosto/2014 até Maio/2018",
-        "cargo": "Tecnico de TI",
-        "descricao": "Prestava suporte técnico aos usuários. <br>Realizava o cadastro de novos usuários e suas liberações dentro dos servidores. <br>Realizava o cadastro de novos usuários e suas liberações dentro do ERP GMAX. <br>Efetuava abertura de chamados e acompanhamento junto a empresa responsável pelo Sistema ERP. <br>Realizava a administração dos servidores Windows com Active Directory e File Server. <br>Realizava a manutenção física dos computadores do parque tecnológico e os ajustes e melhorias na rede local física e sem fio."
-      },
-      {
-        "empresa": "DxD Informática",
-        "logo": "./images/empresas/logo-dxd.jpg",
-        "periodo": "Março/2014 até Agosto/2014",
-        "cargo": "Vendedor Interno",
-        "descricao": "Realizava o atendimento interno aos clientes que frequentavam a loja."
-      },
-      {
-        "empresa": "Projetec Tecnologias Integradas",
-        "logo": "./images/empresas/logo_projetec.png",
-        "periodo": "Agosto/2013 até Dezembro/2013",
-        "cargo": "Consultor de Vendas",
-        "descricao": "Prospectava e realizar visitas a clientes em potencial, oferecendo soluções de TI."
-      },
-      {
-        "empresa": "Tinta e Cor Comercial de Tintas LTDA",
-        "logo": "./images/empresas/logo-tinta-cor.jpeg",
-        "periodo": "Abril/2013 até Julho/2013",
-        "cargo": "Técnico de TI",
-        "descricao": "Realizava a manutenção dos computadores, da rede VPN e da rede local da matriz e das filiais. <br>Realizava a administração dos servidores de Proxy e FileServer Linux. <br>Realizava a abertura de chamados relacionados ao sistema de vendas das lojas e ao sistema de CFTV."
-      },
-      {
-        "empresa": "GSR - Gestão de Segurança e Risco",
-        "logo": "./images/empresas/logo-gsr.jpeg",
-        "periodo": "Agosto/2012 até Março/2013",
-        "cargo": "Técnico de TI",
-        "descricao": "Prestava suporte técnico aos usuários da empresa. <br>Realizava a administração dos servidores Windows com Active Directory e File Server, cadastro de novos usuários e suas liberações. <br>Realizava manutenção física dos computadores do parque tecnológico. <br>Realizava a manutenção de acesso dos sistemas de CFTV dos clientes junto a empresa."      },
-      {
-        "empresa": "GSR - Gestão de Segurança e Risco",
-        "logo": "./images/empresas/logo-gsr.jpeg",
-        "periodo": "Dezembro/2009 até Julho/2012",
-        "cargo": "Operador de Central de Monitoramento",
-        "descricao": "Realizava o monitoramento de frotas dentro do sistema S.M.A.R.T. . <br>Realizava o monitoramento de alarmes residenciais e empresariais dos clientes dentro do sistema VigiSoft."
-      },
-      {
-        "empresa": "Federal Bureau Editoração Eletrônica LTDA",
-        "logo": "./images/empresas/logo-federal-bureau.png",
-        "periodo": "Agosto/2008 até Dezembro/2009",
-        "cargo": "Artefinalista",
-        "descricao": "Realizava a editoração eletrônica dos arquivos recebidos pelos clientes. <br>Fazia a criação de peças gráficas para os clientes. <br>Efetuava a digitalização de documentos e fotos dos clientes. <br>Realizava a impressão e finalização das peças gráficas, enviar para corte/dobra, encadernação e conferência final"
-      },
-      {
-        "empresa": "Gosto e Sumo Lancheria LTDA",
-        "logo": "./images/empresas/logo-gosto-sumo.png",
-        "periodo": "Março/2006 até Março/2008",
-        "cargo": "Entregador",
-        "descricao": "Realizava o atendimento telefônico para confecção dos pedidos. <br>Realizava a entrega dos pedidos."
-      }
-    ]
-  }
-  
+  "experiencias": [
+    {
+      "empresa": "Wipro",
+      "logo": "./images/empresas/logo-wipro.svg",
+      "periodo": "Junho/2024 até o momento",
+      "cargo": "Front-end Developer (PWD)",
+      "descricao": "Atuação no projeto HPX para HP Inc., contribuindo no desenvolvimento da aplicação global myHP, com foco nos módulos de Settings e Feedback.<br>Desenvolvimento e evolução de funcionalidades com React e TypeScript.<br>Correção de bugs e melhorias evolutivas com foco em estabilidade e manutenção de código.<br>Análise de impacto técnico antes de implementações, garantindo previsibilidade nas entregas.<br>Participação em refinamentos técnicos e cerimônias ágeis em ambiente global.<br>Colaboração com designers via Figma e uso de JIRA para gestão de demandas.<br>Brasil · Remoto."
+    },
+    {
+      "empresa": "Philips",
+      "logo": "./images/empresas/logo-philips.png",
+      "periodo": "Janeiro/2022 até Maio/2023",
+      "cargo": "Programador Java Fullstack",
+      "descricao": "Atuação no time de interoperabilidade desenvolvendo integrações sistêmicas críticas para suporte a APIs laboratoriais.<br>Implementação de integrações com Java e Apache Camel.<br>Otimização de performance das integrações com ganho estimado entre 40% e 60%.<br>Manipulação de consultas complexas em PL/SQL para suporte às integrações.<br>Colaboração técnica com equipes multifuncionais garantindo estabilidade e confiabilidade dos serviços.<br>Blumenau, Santa Catarina, Brasil."
+    },
+    {
+      "empresa": "Grupo Villela",
+      "logo": "./images/empresas/logo_grupo-villela.png",
+      "periodo": "Outubro/2021 até Dezembro/2021",
+      "cargo": "Desenvolvedor C# Full Stack",
+      "descricao": "Desenvolvimento de aplicações internas com foco em eficiência operacional e melhoria contínua.<br>Backend com C# e frontend com Angular.<br>Evolução de ferramentas corporativas com melhoria significativa de usabilidade.<br>Implementação de correções estruturais e ajustes técnicos em ambiente ágil.<br>Porto Alegre, Rio Grande do Sul, Brasil."
+    },
+    {
+      "empresa": "Suntex Brasil Indústria de Sintéticos LTDA",
+      "logo": "./images/empresas/logo-suntex.png",
+      "periodo": "Abril/2021 até Outubro/2021",
+      "cargo": "Analista de TI",
+      "descricao": "Suporte interno aos usuários e otimização dos processos de TI.<br>Atendimento interno com resoluções eficazes e altos padrões de satisfação.<br>Abertura de chamados e coordenação com o suporte do sistema TOTVS.<br>Criação e configuração de usuários, gestão de acessos e suporte à plataforma Office 365.<br>Monitoramento e manutenções preventivas em equipamentos de TI e telefonia.<br>Gestão de contratos com prestadores de serviço.<br>Porto Alegre, Rio Grande do Sul, Brasil."
+    },
+    {
+      "empresa": "IPM Sistemas",
+      "logo": "./images/empresas/logo-ipm.jpeg",
+      "periodo": "Setembro/2019 até Setembro/2020",
+      "cargo": "Técnico Residente em Suprimentos",
+      "descricao": "Suporte técnico e otimização de processos para a Prefeitura Municipal de Novo Hamburgo com o sistema Atende.Net.<br>Atendimento interno aos usuários da prefeitura no uso do Atende.Net.<br>Abertura e gerenciamento de chamados junto à equipe de desenvolvimento.<br>Treinamento de novos usuários, com foco no módulo de Compras e Contratos.<br>Ajuste de relatórios com BIRT.<br>Criação e ajuste de fluxos de Workflow no sistema.<br>Rio do Sul."
+    },
+    {
+      "empresa": "FCC",
+      "logo": "./images/empresas/logo-fcc.png",
+      "periodo": "Junho/2018 até Agosto/2019",
+      "cargo": "Técnico de TI",
+      "descricao": "Suporte técnico e eficiência operacional.<br>Cadastro de usuários e liberações em servidores de arquivos, Exchange e Office 365.<br>Administração de servidores Windows (Active Directory e File Server).<br>Manutenção física do parque tecnológico.<br>Backup em fita magnética e registro de compras / prestação de contas do setor de TI no ERP.<br>Campo Bom."
+    },
+    {
+      "empresa": "SMS Metais",
+      "logo": "./images/empresas/logo-sms.jpeg",
+      "periodo": "Agosto/2014 até Maio/2018",
+      "cargo": "Técnico em Informática",
+      "descricao": "Suporte técnico e gestão da infraestrutura de TI.<br>Suporte aos usuários com respostas rápidas e soluções eficazes.<br>Cadastro de usuários e permissões em servidores e no ERP GMAX.<br>Abertura de chamados e acompanhamento com a empresa do ERP.<br>Administração de servidores Windows (Active Directory e File Server).<br>Manutenção física do parque tecnológico.<br>Ajustes e melhorias na rede local física e sem fio.<br>Novo Hamburgo, Rio Grande do Sul."
+    },
+    {
+      "empresa": "DxD Informática",
+      "logo": "./images/empresas/logo-dxd.jpg",
+      "periodo": "Março/2014 até Agosto/2014",
+      "cargo": "Vendas",
+      "descricao": "Freelance · atendimento interno aos clientes na loja, com foco em experiência positiva.<br>Relacionamento com clientes, necessidades e soluções personalizadas.<br>Suporte proativo para satisfação e resolução de dúvidas.<br>Colaboração com a equipe para metas de vendas.<br>Conhecimento atualizado de produtos e serviços.<br>Novo Hamburgo, Rio Grande do Sul."
+    },
+    {
+      "empresa": "Projetec Tecnologias Integradas",
+      "logo": "./images/empresas/logo_projetec.png",
+      "periodo": "Agosto/2013 até Dezembro/2013",
+      "cargo": "Consultor de Vendas",
+      "descricao": "Prospecção e visitas a clientes em potencial com soluções de TI.<br>Identificação de oportunidades e propostas alinhadas aos objetivos do cliente.<br>Relacionamento consultivo e apoio às estratégias comerciais da equipe.<br>Novo Hamburgo, Rio Grande do Sul, Brasil."
+    },
+    {
+      "empresa": "Tinta e Cor Comercial de Tintas LTDA",
+      "logo": "./images/empresas/logo-tinta-cor.jpeg",
+      "periodo": "Abril/2013 até Julho/2013",
+      "cargo": "Técnico em Informática",
+      "descricao": "Manutenção e administração dos sistemas de TI.<br>Manutenção preventiva e corretiva de computadores na matriz e filiais.<br>Administração de servidores Proxy e FileServer Linux.<br>Manutenção da rede VPN e local entre matriz e filiais.<br>Chamados relacionados ao sistema de vendas e ao CFTV.<br>Novo Hamburgo, Rio Grande do Sul, Brasil."
+    },
+    {
+      "empresa": "GSR - Gestão de Segurança e Risco",
+      "logo": "./images/empresas/logo-gsr.jpeg",
+      "periodo": "Agosto/2012 até Março/2013",
+      "cargo": "Técnico de TI",
+      "descricao": "Suporte técnico e gestão da infraestrutura de TI.<br>Suporte aos usuários com respostas rápidas.<br>Administração de servidores Windows (Active Directory e File Server), cadastro e liberações.<br>Manutenção física do parque tecnológico.<br>Manutenção de acessos aos sistemas de CFTV dos clientes em parceria com a empresa.<br>Novo Hamburgo e região, Brasil."
+    },
+    {
+      "empresa": "GSR - Gestão de Segurança e Risco",
+      "logo": "./images/empresas/logo-gsr.jpeg",
+      "periodo": "Dezembro/2009 até Julho/2012",
+      "cargo": "Operador de Central",
+      "descricao": "Monitoramento de frotas no sistema S.M.A.R.T.<br>Monitoramento de alarmes residenciais e empresariais no sistema VigiSoft.<br>Novo Hamburgo, Rio Grande do Sul, Brasil."
+    },
+    {
+      "empresa": "Federal Bureau Editoração LTDA",
+      "logo": "./images/empresas/logo-federal-bureau.png",
+      "periodo": "Agosto/2008 até Dezembro/2009",
+      "cargo": "Arte-Finalista",
+      "descricao": "Editoração eletrônica de arquivos de clientes; criação de peças gráficas; digitalização de documentos e fotos.<br>Impressão e finalização das peças; envio para corte/dobra e encadernação; apoio à conferência final.<br>Novo Hamburgo, Rio Grande do Sul, Brasil."
+    },
+    {
+      "empresa": "Gosto e Sumo Lancheria LTDA",
+      "logo": "./images/empresas/logo-gosto-sumo.png",
+      "periodo": "Março/2006 até Março/2008",
+      "cargo": "Entregador",
+      "descricao": "Atendimento telefônico para confecção dos pedidos e entrega com pontualidade.<br>Novo Hamburgo, Rio Grande do Sul, Brasil."
+    }
+  ]
+}

@@ -1,0 +1,401 @@
+﻿Experiência
+
+
+
+
+Logo da empresa Wipro
+Front-end Developer (PWD)
+
+
+Wipro · Tempo integral
+
+
+jun de 2024 - o momento · 2 anos
+
+
+Brasil · Remoto
+
+
+Atuação no projeto HPX para HP Inc, contribuindo diretamente no desenvolvimento da aplicação
+global myHP, com foco nos módulos de Settings e Feedback.
+• Desenvolvimento e evolução de funcionalidades utilizando React e TypeScript.
+• Correção de bugs e implementação de melhorias evolutivas com foco em estabilidade e
+manutenção de código.
+• Análise de impacto técnico antes de implementações, garantindo previsibilidade nas entregas.
+• Participação ativa em refinamentos técnicos e cerimônias ágeis em ambiente global.
+• Colaboração com designers via Figma e utilização de JIRA para gestão estruturada de
+demandas.
+
+
+ JIRA, Versionamento e mais 12 competências
+
+
+
+
+Aprimorar com IA
+Logo da empresa Philips
+Programador Java Fullstack
+
+
+Philips · Tempo integral
+
+
+jan de 2022 - mai de 2023 · 1 ano 5 meses
+
+
+Blumenau, Santa Catarina, Brasil
+
+
+Atuação no time de interoperabilidade desenvolvendo integrações sistêmicas críticas para suporte
+a APIs laboratoriais.
+• Implementação de integrações utilizando Java e Apache Camel.
+• Otimização de performance das integrações com ganho estimado entre 40% e 60%.
+• Manipulação de consultas complexas em PL/SQL para suporte às integrações.
+• Colaboração técnica com equipes multifuncionais garantindo estabilidade e confiabilidade dos
+serviços.
+
+
+ Programação (computação), CSS3 e mais 32 competências
+
+
+Logo da empresa Grupo Villela
+Desenvolvedor C# Full Stack
+
+
+Grupo Villela · Tempo integral
+
+
+out de 2021 - dez de 2021 · 3 meses
+
+
+Porto Alegre, Rio Grande do Sul, Brasil
+
+
+O LinkedIn me ajudou a conseguir este emprego me ajudou a conseguir este emprego
+
+
+Atuação no desenvolvimento de aplicações internas com foco em eficiência operacional e melhoria
+contínua.
+• Desenvolvimento backend com C# e frontend com Angular.
+• Evolução de ferramentas corporativas com melhoria significativa de usabilidade.
+• Implementação de correções estruturais e ajustes técnicos em ambiente ágil.
+
+
+ Programação (computação), C# e mais 23 competências
+
+
+Analista de TI
+
+
+Suntex Brasil Indústria de Sintéticos LTDA · Tempo integral
+
+
+abr de 2021 - out de 2021 · 7 meses
+
+
+Porto Alegre, Rio Grande do Sul, Brasil
+
+
+Como Analista de TI, desempenhei um papel fundamental no suporte interno aos usuários e na otimização dos processos de TI.
+
+
+Principais responsabilidades:
+- Atendimento interno aos usuários, garantindo resoluções eficazes e mantendo altos padrões de satisfação.
+- Abertura de chamados e coordenação com o suporte do sistema TOTVS para garantir operações contínuas e sem interrupções.
+- Criação e configuração de usuários, gerenciamento de acessos e suporte à plataforma Office 365.
+- Monitoramento proativo e realização de manutenções preventivas nos equipamentos de TI e telefonia para garantir a integridade dos sistemas.
+- Gestão eficaz de contratos com prestadores de serviço, assegurando conformidade e eficiência nas operações.
+
+
+Minha atuação na Suntex Brasil foi marcada pelo comprometimento em oferecer suporte técnico excepcional, otimizando operações e contribuindo para a estabilidade dos sistemas
+
+
+ Raciocínio lógico, Pensamento estratégico e mais 8 competências
+
+
+Logo da empresa IPM Sistemas
+Técnico Residente em Suprimentos
+
+
+IPM Sistemas · Tempo integral
+
+
+set de 2019 - set de 2020 · 1 ano 1 mês
+
+
+Rio do Sul
+
+
+Como Técnico Residente em Suprimentos, desempenhei um papel vital no suporte técnico e otimização dos processos para a Prefeitura Municipal de Novo Hamburgo, utilizando o sistema Atende.Net.
+
+
+Principais responsabilidades:
+- Atendimento interno aos usuários da Prefeitura Municipal de Novo Hamburgo, proporcionando suporte técnico especializado no uso eficaz do sistema Atende.Net.
+- Abertura e gerenciamento de chamados junto à equipe de desenvolvimento do sistema, garantindo resoluções rápidas e eficientes.
+- Participação ativa no treinamento de novos usuários, com foco especial no módulo de Compras e Contratos.
+- Ajuste de relatórios utilizando a ferramenta BIRT para fornecer informações precisas e relevantes.
+- Colaboração na criação e ajuste de fluxos de Workflow dentro do sistema, contribuindo para a eficiência operacional.
+
+
+Minha contribuição na IPM Sistemas foi marcada pela dedicação em fornecer soluções práticas e eficientes para a Prefeitura, destacando-se na resolução de desafios e na implementação de melhorias contínuas.
+
+
+ Raciocínio lógico, Pensamento estratégico e mais 8 competências
+
+
+Logo da empresa FCC
+Técnico de TI
+
+
+FCC · Tempo integral
+
+
+jun de 2018 - ago de 2019 · 1 ano 3 meses
+
+
+Campo Bom
+
+
+Desempenhei um papel essencial como Técnico de TI, prestando suporte técnico abrangente e contribuindo para a eficiência operacional da empresa.
+
+
+Principais responsabilidades:
+- Prestei suporte técnico especializado, assegurando resoluções rápidas e eficientes para os usuários da empresa.
+- Realizei o cadastro de novos usuários e suas liberações, gerenciando servidores de arquivos, plataformas Exchange e Office 365.
+- Administrei os servidores Windows com Active Directory e File Server, garantindo a integridade e segurança dos dados.
+- Mantive fisicamente os computadores do parque tecnológico, realizando manutenções preventivas e corretivas.
+- Realizava o processo de backup em fita magnética e registrei compras, garantindo a prestação de contas eficiente no ERP da empresa.
+
+
+Minha atuação na FCC foi marcada pela proatividade na manutenção da infraestrutura de TI e pela implementação de práticas eficientes de suporte.
+
+
+ Raciocínio lógico, Pensamento estratégico e mais 8 competências
+
+
+Logo da empresa SMS Metais
+Técnico em Informática
+
+
+SMS Metais · Tempo integral
+
+
+ago de 2014 - mai de 2018 · 3 anos 10 meses
+
+
+Novo Hamburgo, Rio Grande do Sul
+
+
+Durante meu período na empresa como Técnico em Informática, assumi um papel fundamental no suporte técnico e na gestão da infraestrutura de TI, contribuindo significativamente para a eficiência operacional.
+
+
+Principais responsabilidades:
+- Prestei suporte técnico aos usuários, garantindo respostas rápidas e soluções eficazes para questões relacionadas à tecnologia.
+- Realizei o cadastro de novos usuários e gerenciamento de permissões nos servidores e no ERP GMAX.
+- Efetuei a abertura de chamados e acompanhei de perto os processos junto à empresa responsável pelo Sistema ERP.
+- Administrei os servidores Windows com Active Directory e File Server, mantendo a estabilidade e segurança dos sistemas.
+- Mantive a integridade física dos computadores do parque tecnológico, realizando manutenções preventivas e corretivas.
+- Implementei ajustes e melhorias na rede local física e sem fio, otimizando a conectividade.
+
+
+Minha atuação na SMS Metais foi marcada pelo comprometimento em fornecer suporte técnico excepcional e pela implementação de melhorias contínuas na infraestrutura de TI.
+
+
+ Raciocínio lógico, Pensamento estratégico e mais 8 competências
+
+
+Vendas
+
+
+Dxd Informatica · Freelance
+
+
+mar de 2014 - ago de 2014 · 6 meses
+
+
+Novo Hamburgo, Rio Grande do Sul
+
+
+Durante meu período na empresa como profissional de vendas, atendi internamente os clientes que frequentavam a loja, proporcionando uma experiência positiva e contribuindo para o sucesso das operações.
+
+
+Principais responsabilidades:
+- Desenvolvi e mantive relacionamentos sólidos com os clientes, compreendendo suas necessidades e oferecendo soluções personalizadas.
+- Ofereci suporte proativo para garantir a satisfação do cliente e a resolução eficaz de quaisquer preocupações.
+- Colaborei com a equipe para atingir metas de vendas, demonstrando habilidades excepcionais de comunicação e persuasão.
+- Mantive um conhecimento atualizado dos produtos e serviços oferecidos pela loja para fornecer informações precisas aos clientes.
+
+
+Minha experiência em vendas na Dxd Informatica contribuiu para o desenvolvimento das minhas habilidades interpessoais e minha capacidade de atender às necessidades dos clientes de maneira eficaz.
+
+
+ Comunicação interpessoal, Relacionamentos interpessoais e mais 3 competências
+
+
+Consultor de Vendas
+
+
+Projetec Tecnologias Integradas · Tempo integral
+
+
+ago de 2013 - dez de 2013 · 5 meses
+
+
+Novo Hamburgo, Rio Grande do Sul, Brasil
+
+
+Durante meu período como Consultor de Vendas, assumi um papel ativo na prospecção e visitas a clientes em potencial, oferecendo soluções de TI inovadoras.
+
+
+Principais responsabilidades:
+- Prospectei ativamente clientes em potencial, identificando oportunidades para fornecer soluções personalizadas de tecnologia.
+- Realizei visitas estratégicas para compreender as necessidades específicas dos clientes e apresentar soluções alinhadas aos seus objetivos.
+- Desenvolvi relacionamentos sólidos e de confiança com os clientes, atuando como consultor de confiança para suas necessidades de TI.
+- Colaborei com a equipe para desenvolver estratégias de vendas eficazes e alcançar metas estabelecidas.
+
+
+Minha experiência na Projetec Tecnologias Integradas fortaleceu minhas habilidades de vendas consultivas e minha capacidade de identificar oportunidades de negócios.
+
+
+ Comunicação interpessoal, Relacionamentos interpessoais e mais 3 competências
+
+
+Técnico em Informática
+
+
+Tinta e Cor Comercial de Tintas LTDA · Tempo integral
+
+
+abr de 2013 - jul de 2013 · 4 meses
+
+
+Novo Hamburgo Rio Grande do Sul, Brasil
+
+
+Durante meu período como Técnico em Informática, desempenhei um papel essencial na manutenção e administração dos sistemas de tecnologia da informação.
+
+
+Principais responsabilidades:
+- Realizei a manutenção preventiva e corretiva dos computadores, garantindo o bom funcionamento dos sistemas nas matrizes e filiais.
+- Administrei os servidores de Proxy e FileServer Linux, assegurando a integridade e a segurança dos dados.
+- Mantive e otimizei a rede VPN e local, proporcionando conectividade eficiente entre a matriz e as filiais.
+- Efetuei a abertura e acompanhamento de chamados relacionados ao sistema de vendas das lojas e ao sistema de CFTV.
+- Colaborei ativamente com a equipe para implementar melhorias na infraestrutura de TI e garantir a eficiência operacional.
+
+
+Minha experiência na Tinta e Cor Comercial de Tintas LTDA fortaleceu minha habilidade em lidar com sistemas complexos e garantir a estabilidade dos ambientes de TI.
+
+
+ Comunicação interpessoal, Resolução de problemas e mais 5 competências
+
+
+GSR - Gestão de Segurança e Risco
+
+
+Tempo integral · 3 a 4 m
+
+
+Técnico TI
+
+
+ago de 2012 - mar de 2013 · 8 meses
+
+
+Novo Hamburgo e Região, Brasil
+
+
+
+
+Aprimorar com IA
+Durante meu período de atuação na empresa, desempenhei um papel crucial como Técnico de TI, oferecendo suporte técnico abrangente e gerenciando a infraestrutura de TI da empresa.
+
+
+Principais responsabilidades:
+- Prestei suporte técnico especializado aos usuários, garantindo respostas rápidas e soluções eficazes para as demandas de TI.
+- Administrei os servidores Windows com Active Directory e File Server, incluindo o cadastro de novos usuários e suas liberações.
+- Realizei a manutenção física dos computadores no parque tecnológico, assegurando o funcionamento eficiente dos equipamentos.
+- Mantive a integridade e segurança dos sistemas de CFTV dos clientes, colaborando com a empresa para a manutenção de acessos.
+
+
+Minha contribuição na GSR fortaleceu minha experiência em suporte técnico e administração de sistemas, preparando-me para enfrentar desafios futuros de maneira proativa e eficaz.
+
+
+Competências: Comunicação interpessoal, Resolução de problemas e mais 5 competências
+
+
+Operador de Central
+
+
+dez de 2009 - jul de 2012 · 2 anos 8 meses
+
+
+Novo Hamburgo, Rio Grande do Sul, Brasil
+
+
+Durante meu período como Operador de Central na empresa, fui responsável pelo monitoramento de frotas no sistema S.M.A.R.T. e pelo monitoramento de alarmes residenciais e empresariais dos clientes no sistema VigiSoft.
+
+
+Principais responsabilidades:
+- Realizei o monitoramento contínuo de frotas, garantindo eficiência e segurança por meio do sistema S.M.A.R.T.
+- Monitorava alarmes residenciais e empresariais dos clientes, proporcionando respostas rápidas a incidentes no sistema VigiSoft.
+
+
+Minha atuação como Operador de Central foi marcada pelo comprometimento com a segurança e eficiência dos sistemas monitorados. Essa experiência solidificou minha habilidade em lidar com situações críticas e tomar ações decisivas.
+
+
+Competências: Comunicação interpessoal, Relacionamentos interpessoais e mais 1 competência
+
+
+Arte-Finalista
+
+
+Federal Bureau Editoração LTDA · Tempo integral
+
+
+ago de 2008 - dez de 2009 · 1 ano 5 meses
+
+
+Novo Hamburgo, Rio Grande do Sul, Brasil
+
+
+Durante meu período como Arte-Finalista na empresa, fui responsável pela editoração eletrônica dos arquivos recebidos pelos clientes, criação de peças gráficas personalizadas e digitalização de documentos e fotos dos clientes.
+
+
+Principais responsabilidades:
+- Realizei a editoração eletrônica de arquivos, garantindo a qualidade e precisão no processo de produção gráfica.
+- Criei peças gráficas personalizadas, atendendo às necessidades específicas dos clientes.
+- Efetuei a digitalização de documentos e fotos dos clientes para integração nos projetos.
+- Auxiliei a impressão e finalização das peças gráficas, assegurando padrões de qualidade.
+- Realizei o envio das peças para corte/dobra, encadernação e auxiliava na conferência final.
+
+
+Minha atuação como Arte-Finalista foi marcada pelo compromisso com a excelência no design gráfico e na produção de materiais impressos.
+
+
+ Comunicação interpessoal, Relacionamentos interpessoais e mais 3 competências
+
+
+Entregador
+
+
+Gosto e Sumo Lancheria LTDA · Tempo integral
+
+
+mar de 2006 - mar de 2008 · 2 anos 1 mês
+
+
+Novo Hamburgo, Rio Grande do Sul, Brasil
+
+
+Durante meu período como Entregador na empresa, fui responsável pelo atendimento telefônico para confecção dos pedidos e pela eficiente entrega dos mesmos.
+
+
+Principais responsabilidades:
+- Realizei atendimento telefônico, assegurando uma comunicação clara e eficiente para receber pedidos dos clientes.
+- Efetuei as entregas dos pedidos, garantindo pontualidade e a satisfação dos clientes.
+
+
+Minha atuação como Entregador na Gosto e Sumo Lancheria foi marcada pelo comprometimento em oferecer um serviço ágil e de qualidade aos clientes. Essa experiência solidificou minha capacidade de trabalhar em equipe e proporcionar um atendimento excepcional.
+
+
+ Comunicação interpessoal, Relacionamentos interpessoais e mais 1 competência

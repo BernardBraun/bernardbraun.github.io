@@ -2,14 +2,18 @@
 <html lang="pt-BR">
   <head>
     <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>My Personal Page</title>
+    <meta
+      name="description"
+      content="Bernard Braun da Silva — Frontend developer. Portfolio, experience, and projects."
+    />
+    <title>Bernard Braun — Frontend Developer</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&display=swap"
       rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css"
-      integrity="sha512-NmLkDIU1C/C88wi324HBc+S2kLhi08PN5GDeUVVVC/BVt/9Izdsc9SVeVfA1UZbY3sHUlDSyRXhCzHfr6hmPPw=="
-      crossorigin="anonymous"
-      referrerpolicy="no-referrer"
     />
     <link
       rel="stylesheet"
@@ -18,17 +22,9 @@
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
     />
-    <link rel="stylesheet" href="./styles.css" />
-    <script src="./script.js"></script>
   </head>
   <body>
-    <header class="app_header"></header>
-    <div class="container">
-        <div class="image"></div>
-        <div class="info">
-            <p class="text-bio"></p>
-        </div>
-        <div class="sectors"></div>
-    </div>
-</body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
 </html>
