@@ -50,7 +50,7 @@ document.addEventListener("DOMContentLoaded", function () {
         Que bom que você quer meu contato!
         Anote aí antes de apertar o ok!
         bernard.sbraun@gmail.com
-        +55 51 98019-5746
+        +55 51 99369-0479
         
         Obrigado!!`)
     }
